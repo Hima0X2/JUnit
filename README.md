@@ -104,7 +104,7 @@ A browser window will open, scrape the table, and store data in data.txt.
 ### 5. Watch the Automation Task 1
 
 - A Chrome browser window will open and fill in the WP Everest Guest Registration form.
-- **screenshot** and a **video** will be given in ths README.md file.
+- **screenshot** and a **video** gave in ths README.md file.
 
 ## 👨‍💻 Author: Sanjida Samanta    
 
