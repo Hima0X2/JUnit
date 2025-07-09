@@ -1,14 +1,4 @@
 # JUnit
-## 👨‍💻 Author: Sanjida Samanta    
-## 🔧 Tools Used:  
-- Java  
-- JUnit 5  
-- Selenium WebDriver  
-- ChromeDriver  
-- Gradle   
-
----
-## 📌 Topic Name: JUnit
 
 ### ✅ Description:
 This project includes two separate automation tasks using **JUnit and Selenium**:
@@ -58,7 +48,13 @@ https://github.com/user-attachments/assets/61c3b05e-0124-4cf2-baff-0d9387595751
 ### 🎥 Demo Video:
 https://github.com/user-attachments/assets/dcf982c8-f36f-40bd-8e95-b23492961775
 
----
+
+## 🔧 Tools Used:  
+- Java  
+- JUnit 5  
+- Selenium WebDriver  
+- ChromeDriver  
+- Gradle   
 
 ## 📂 Folder Structure
 ```
@@ -110,4 +106,5 @@ A browser window will open, scrape the table, and store data in data.txt.
 - A Chrome browser window will open and fill in the WP Everest Guest Registration form.
 - **screenshot** and a **video** will be given in ths README.md file.
 
----
+## 👨‍💻 Author: Sanjida Samanta    
+
