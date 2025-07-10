@@ -26,7 +26,7 @@ This project includes two separate automation tasks using **JUnit and Selenium**
 
 ### 🎥 Demo Video:
 
-https://github.com/user-attachments/assets/61c3b05e-0124-4cf2-baff-0d9387595751
+https://github.com/user-attachments/assets/2442fd87-4ed7-4893-a6fc-78c3f9f10f57
 
 ---
 
